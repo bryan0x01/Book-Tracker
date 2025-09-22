@@ -3,7 +3,7 @@ import java.util.*;
 /**
  * LibraryApp — Simple Java console program to practice Data Structures & Algorithms.
  * Author: Bryan Gomez Esparza
- * Date: Spring 2025
+ * Date: Fall 2024
  */
 public class LibraryApp {
 
